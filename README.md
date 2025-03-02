@@ -3,7 +3,8 @@ this repository whill show the string into the desighned format of the text by u
 example given inside the index.js file ("hello world ")
 
 
-Alternatively, if you find that triple backticks are not doing the trick, you can also try:
+
+
 
 ```markdown
 <pre>
