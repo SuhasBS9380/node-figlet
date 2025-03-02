@@ -15,3 +15,4 @@ example given inside the index.js file ("hello world ")
  |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_|_)
 </pre>
 
+#run the index.js(change requuired text u want to show
